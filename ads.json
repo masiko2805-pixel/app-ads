@@ -6,7 +6,7 @@
       "description": "Rooted in nature. Refined in spirit.",
       "imageUrl": "https://github.com/masiko2805-pixel/app-ads/blob/2ebfa90b4c8200afa5bf918c010a6b84084d073b/spotted-horse.jpeg",
       "targetUrl": "https://spotted-horse.com/",
-      "advertiserName": "Spotted Horse Gold Rum",
+      "advertiserName": "Spotted Horse",
       "placement": "BANNER",
       "priority": 100,
       "isActive": true
@@ -17,7 +17,7 @@
       "description": "Rooted in nature. Refined in spirit.",
       "imageUrl": "https://github.com/masiko2805-pixel/app-ads/blob/2ebfa90b4c8200afa5bf918c010a6b84084d073b/spotted-horse.jpeg",
       "targetUrl": "https://spotted-horse.com/",
-      "advertiserName": "Spotted Horse Gold Rum",
+      "advertiserName": "Spotted Horse",
       "placement": "CARD",
       "priority": 100,
       "isActive": true
@@ -25,10 +25,10 @@
     {
       "id": "spotted_horse_3",
       "title": "Spotted Horse Gold Rum",
-      "description": "Rooted in nature. Refined in spirit.",
+      "description": "Avaialble at all PnP liquor stores & all Tops at Spar stores",
       "imageUrl": "https://github.com/masiko2805-pixel/app-ads/blob/2ebfa90b4c8200afa5bf918c010a6b84084d073b/spotted-horse.jpeg",
       "targetUrl": "https://spotted-horse.com/",
-      "advertiserName": "Spotted Horse Gold Rum",
+      "advertiserName": "Spotted Horse",
       "placement": "NATIVE",
       "priority": 100,
       "isActive": true
