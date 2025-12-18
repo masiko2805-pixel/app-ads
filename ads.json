@@ -1,0 +1,37 @@
+{
+  "ads": [
+    {
+      "id": "spotted_horse_1",
+      "title": "Spotted Horse",
+      "description": "Quality agricultural products and services",
+      "imageUrl": "https://agribusinessmedia.com/app-ads/images/spotted-horse.jpg",
+      "targetUrl": "https://spotted-horse.com/",
+      "advertiserName": "Spotted Horse",
+      "placement": "BANNER",
+      "priority": 100,
+      "isActive": true
+    },
+    {
+      "id": "spotted_horse_2",
+      "title": "Spotted Horse",
+      "description": "Your trusted partner in agriculture",
+      "imageUrl": "https://agribusinessmedia.com/app-ads/images/spotted-horse.jpg",
+      "targetUrl": "https://spotted-horse.com/",
+      "advertiserName": "Spotted Horse",
+      "placement": "CARD",
+      "priority": 100,
+      "isActive": true
+    },
+    {
+      "id": "spotted_horse_3",
+      "title": "Spotted Horse",
+      "description": "Quality agricultural products and services for modern farming",
+      "imageUrl": "https://agribusinessmedia.com/app-ads/images/spotted-horse.jpg",
+      "targetUrl": "https://spotted-horse.com/",
+      "advertiserName": "Spotted Horse",
+      "placement": "NATIVE",
+      "priority": 100,
+      "isActive": true
+    }
+  ]
+}
